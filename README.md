@@ -8,7 +8,7 @@ Python: 3.7.6    Hadoop: 2.7  Spark: 2.4.5
 
 ## How to run
 Use command './run236.sh [Stations file path] [Recordings directory path] [Output directory path]'
-In case you get some errors running this script(due to path or environment settings), you can open 'code_jpt.ipynb" too see the result of every step and open 'result.txt' to see the final result :)
+In case you get some errors running this script(due to path or environment settings), you can open 'main.ipynb" too see the result of every step and open 'result.txt' to see the final result :)
 
 
 ## Project Description
